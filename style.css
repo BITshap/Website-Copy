@@ -77,3 +77,8 @@ section {
     flex-wrap: wrap;
     height: 10vh;
 }
+
+#image-div {
+    border: 1px solid blue;
+    width: 100%;
+}
